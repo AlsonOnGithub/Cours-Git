@@ -8,4 +8,5 @@ Voici les étapes à suivre pour geree un repo
 3. Faire les modifications locales désirées 
 4. Ajouter les changements à ¨commit¨ au staging area
 5. Commit tous les changements (git commit -m ¨message¨)
-6.
+6. push le changement au serveur (git push)
+
